@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kal038@bucknell.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZlxbTn-ZbvfuP94wQ9luCIENgbBbEw6l/view?usp=sharing](https://drive.google.com/file/d/1ZlxbTn-ZbvfuP94wQ9luCIENgbBbEw6l/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZlxbTn-ZbvfuP94wQ9luCIENgbBbEw6l/view?usp=sharing)
 
 - ⚡ Fun fact **I used to be a boy scout**
 
