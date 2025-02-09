@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZlxbTn-ZbvfuP94wQ9luCIENgbBbEw6l/view?usp=sharing)
 
-- ⚡ Fun fact **I used to be a boy scout** **Was top 15 in a Jr.NBA worldwide basketball camp"
+- ⚡ Fun fact **I used to be a boy scout** **Was top 15 in a Jr.NBA worldwide basketball camp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
