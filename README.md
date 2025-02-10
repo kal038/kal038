@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, K8s**
 
-- 👨‍💻 All of my projects are available at [this Github](this Github)
+- 👨‍💻 All of my projects are available at: here
 
 - 💬 Ask me about **basketball, films, gaming.**
 
