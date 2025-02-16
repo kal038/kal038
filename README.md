@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kal038" alt="kal038" /></a> </p>
 
-- 🔭 I’m currently working on **Jiggle Bliss site**
+- 🔭 I’m currently working on **Jiggle Bliss site to sell handmade yarn products**
 
 - 🌱 I’m currently learning **NextJS, K8s**
 
