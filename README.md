@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **basketball, films, gaming.**
 
-- 📫 How to reach me **khoilin0@gmail.com**
+- 📫 How to reach me **khoialam00@gmail.com**
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZlxbTn-ZbvfuP94wQ9luCIENgbBbEw6l/view?usp=sharing)
 
