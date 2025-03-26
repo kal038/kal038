@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khoi Lam ❤️</h1>
+<h1 align="center">Hi 👋, I'm Khoi Lam ❤️ An engineer from 🇻🇳</h1>
 <h3 align="center">currently doing a spike on [...]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal038&label=Profile%20views&color=0e75b6&style=flat" alt="kal038" /> </p>
