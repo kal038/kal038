@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **khoialam00@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1pi5IOjEMJCKCqAtNtfIlMSfmuvKixmSi/view)
-
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1UiIxsvTLaxCC4xW8KWWPTq3Aa9BbGbKc/view)
+  
 - ⚡ Fun fact **I used to be a boy scout**
 
 <h3 align="left">Connect with me:</h3>
