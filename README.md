@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoi Lam ❤️ </h1>
 
-![Khoi Banner](https://raw.githubusercontent.com/kal038/kal038/main/github_banner.png)
+![Khoi Banner](https://raw.githubusercontent.com/kal038/kal038/main/banner_vn.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal038&label=Profile%20views&color=0e75b6&style=flat" alt="kal038" /> </p>
 
