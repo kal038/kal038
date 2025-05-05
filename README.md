@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on **Jiggle Bliss site to sell handmade yarn products & ApplyFlow to help job search more efficiently**
 
-- 🌱 I’m currently learning **NextJS, K8s**
-
-- 👨‍💻 All of my projects are available at: here
-
 - 💬 Ask me about **basketball, films, and video games.**
 
 - 📫 How to reach me **khoialam00@gmail.com**
