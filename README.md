@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khoi Lam ❤️ An engineer from 🇻🇳</h1>
+<h1 align="center">Hi 👋, I'm Khoi Lam ❤️ </h1>
 <h3 align="center">currently doing a spike on [...]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal038&label=Profile%20views&color=0e75b6&style=flat" alt="kal038" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khoialam00@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1UiIxsvTLaxCC4xW8KWWPTq3Aa9BbGbKc/view)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1d3wFswDz7dUZXNBOoKhezjgRzc4UlzzI/view)
   
 - ⚡ Fun fact **I used to be a boy scout**
 
