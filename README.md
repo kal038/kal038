@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khoi Lam ❤️ </h1>
+<h1 align="center">Hi 👋, I'm Khoi  </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal038&label=Profile%20views&color=0e75b6&style=flat" alt="kal038" /> </p>
