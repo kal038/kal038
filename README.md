@@ -9,11 +9,10 @@
 
 - 💬 Ask me about **basketball, films, and video games.**
 
-- 📫 How to reach me **khoialam00@gmail.com**
+- 📫 Reach me **khoialam00@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/17J9fC0EGGAPa_25KpuJwYq-bnfPq3s14/view)
+- 📄 My experiences [Resume](https://drive.google.com/file/d/17J9fC0EGGAPa_25KpuJwYq-bnfPq3s14/view)
   
-- ⚡ Fun fact **I used to be a boy scout**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
