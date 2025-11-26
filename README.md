@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **ApplyFlow to help job search more efficiently**
 
-- 💬 Ask me about **basketball, films, and video games.**
+- 💬 Learning Rust
 
-- 📫 Reach me **khoialam00@gmail.com**
+- 📫 Reach me at **khoialam00@gmail.com**
 
 - 📄 My experiences [Resume](https://drive.google.com/file/d/17J9fC0EGGAPa_25KpuJwYq-bnfPq3s14/view)
   
