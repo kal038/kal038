@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoi  </h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kal038&label=Profile%20views&color=0e75b6&style=flat" alt="kal038" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kal038" alt="kal038" /></a> </p>
-
 - 🔭 I’m currently working on **ApplyFlow to help job search more efficiently**
 
 - 💬 Learning Rust
