@@ -13,9 +13,6 @@
 <a href="https://x.com/khoilam12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khoilam12" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kal038&show_icons=true&locale=en&layout=compact" alt="kal038" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kal038&" alt="kal038" /></p>
 
 
 
