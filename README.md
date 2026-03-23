@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khoi  </h1>
 
-- 🔭 I’m currently working on **ApplyFlow to help job search more efficiently** and **nhuthungfoto** to help my dad teach photography more efficiently.
+- 🔭 I’m currently working on **ApplyFlow** to help job search more efficiently and **nhuthungfoto** to help my dad teach photography more efficiently.
 
 - 📫 Reach me at **khoialam00@gmail.com**
 
