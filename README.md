@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **ApplyFlow** to help job search more efficiently and **nhuthungfoto** to help my dad teach photography more efficiently.
 
-- 📫 Reach me at **khoialam00@gmail.com**
-
 - 📄 My experiences [Resume](https://drive.google.com/file/d/17J9fC0EGGAPa_25KpuJwYq-bnfPq3s14/view)
   
 
