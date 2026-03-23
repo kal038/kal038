@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khoi  </h1>
 
 - 🔭 I’m currently working on **ApplyFlow** to help job search more efficiently and **nhuthungfoto** to help my dad teach photography more efficiently.
-
-- 📄 My experiences [Resume](https://drive.google.com/file/d/17J9fC0EGGAPa_25KpuJwYq-bnfPq3s14/view)
   
 
 <h3 align="left">Let's chat:</h3>
